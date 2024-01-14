@@ -42,11 +42,11 @@ qsub run_IBMFSI.cmd
 
 3. [Massive parallelisation and performance enhancement of an immersed boundary method based unsteady flow solver](https://www.researchgate.net/publication/361361842_Massive_parallelisation_and_performance_enhancement_of_an_immersed_boundary_method_based_unsteady_flow_solver)
 
-   ```
-   @inproceedings{sundar2022massive,
-  title={Massive parallelisation and performance enhancement of an immersed boundary method based unsteady flow solver},
-  author={Sundar, Rahul and Majumdar, Dipanjan and Shah, Chhote Lal and Sarkar, Sunetra},
-  booktitle={9th International and 49th National Conference on Fluid Mechanics and Fluid Power, IIT Roorkee, India},
-  year={2022}
-  }
+```
+@inproceedings{sundar2022massive,
+title={Massive parallelisation and performance enhancement of an immersed boundary method based unsteady flow solver},
+author={Sundar, Rahul and Majumdar, Dipanjan and Shah, Chhote Lal and Sarkar, Sunetra},
+booktitle={9th International and 49th National Conference on Fluid Mechanics and Fluid Power, IIT Roorkee, India},
+year={2022}
+}
 ```
