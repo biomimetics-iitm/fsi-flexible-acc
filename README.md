@@ -39,8 +39,7 @@ qsub run_IBMFSI.cmd
   author={Shah, Chhote Lal and Majumdar, Dipanjan and Sarkar, Sunetra}
 }
 ```
-
-3. [Massive parallelisation and performance enhancement of an immersed boundary method based unsteady flow solver](https://www.researchgate.net/publication/361361842_Massive_parallelisation_and_performance_enhancement_of_an_immersed_boundary_method_based_unsteady_flow_solver)
+3. [Massive parallelisation and performance enhancement of an immersed boundary method based unsteady flow solver](https://arxiv.org/abs/2402.17337)
 
 ```
 @inproceedings{sundar2022massive,
